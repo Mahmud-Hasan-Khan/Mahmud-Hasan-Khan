@@ -1,6 +1,5 @@
 <br/>
 <img src="./images/banner/GitHub-Profile-Cover.png" />
-<br/>
 
 ## 👋 Hello there! I'm Mahmud Hasan
 
