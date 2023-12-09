@@ -3,7 +3,7 @@
 ## My Current Stats
 <br />
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Mahmud-Hasan-Khan&theme=burnt-neon&mode=weekly" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=Mahmud-Hasan-Khan&theme=burnt-neon" />
 </p>
 
 Here are some ideas to get you started:
