@@ -1,5 +1,8 @@
 # Overview
 
+## My Current Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mahmud-Hasan-Khan&theme=burnt-neon&mode=weekly)](https://git.io/streak-stats)
+
 **Mahmud-Hasan-Khan/Mahmud-Hasan-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
