@@ -36,6 +36,22 @@
 <img src="./images/icons/mongo.png"/>
 </p>
 
+# My Last 3 Projects
+## Diagnostic Center Management System
+ - A full-stack web application that effectively manages appointments, patient records, test results, and administrative tasks for a diagnostic center.
+ - Admin email: admin@admin.com
+ - Admin password: Qazwsx!
+ ## Live Site Link
+- [Click Here to Open Live Site](https://medicare-mahmud.web.app/)
 
+ ## Dream Jobs
+  - A simple full-stack Job Seeking website. This job listing website where users can post jobs, search & apply jobs etc.
+  - ## Live Site Link
+- [Click Here to Open Live Site](https://dream-jobs-mahmud.web.app/)
+
+  ## Gadget World
+   - Electronic Gadget Online Shop web app build with React(Vite) Application, where used React Router DOM & Firebase for Authentication. Express used for Backend server & MongoDB use for Database.
+  ## Live Site Link
+- [Click Here to Open Live Site](https://unrivaled-queijadas-db47e3.netlify.app/)
 
 
