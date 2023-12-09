@@ -1,10 +1,19 @@
 <br/>
 <img src="./images/banner/GitHub-Profile-Cover.png" />
+<br/>
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
-[![Medium Badge](https://img.shields.io/badge/-@jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@jessicalim)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com) -->
+## 👋 Hello there! I'm Mahmud Hasan
+
+- 🔭 I’m currently Seeking a job or internship to upgrade my skill as a junior web developer.
+- 🌱 I’m currently learning Next.js with Material-UI 
+- 👯 I’m looking to collaborate on open source projects.
+- ⚡ I love to travels.
+
+## Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-mahmud-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmud-hasan-ba33b12a4/)](https://www.linkedin.com/in/mahmud-hasan-ba33b12a4/)
+[![Facebook Badge](https://img.shields.io/badge/-mahmud-47CCCC?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/mahmud.hasan.5055)](https://www.facebook.com/mahmud.hasan.5055)
+[![Gmail Badge](https://img.shields.io/badge/-mahmudhasan3263-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mahmudhasan3263@gmail.com)](mailto:mahmudhasan3263@gmail.com)
 
 
 ## My Current Stats
@@ -29,14 +38,5 @@
 </p>
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
